@@ -64,7 +64,7 @@ Para analisar os produtos exportados pelas duas maiores cidades exportadoras em 
 3. Abra o Jupyter Notebook e execute as células de código conforme necessário.
 
 ## Contribuição alunos da UNIBH
-Ana Luiza Da Silva Ferreira
-Gustavo Antonionni Carvalho
-Thiago Augusto Jardim
-Wallysson Vieira Magalhães
+- Ana Luiza Da Silva Ferreira
+- Gustavo Antonionni Carvalho
+- Thiago Augusto Jardim
+- Wallysson Vieira Magalhães
